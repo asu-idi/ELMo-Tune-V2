@@ -1,0 +1,16 @@
+{
+    "benchmarks": [
+        {
+            "benchmark": "fillrandom",
+            "throughput": 270000,
+            "start_time": 0,
+            "duration": 300
+        },
+        {
+            "benchmark": "readrandom",
+            "throughput": 200000,
+            "start_time": 300,
+            "duration": 300
+        }
+    ]
+}
